@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Leah :wave:
+- I'm a Data Science grad student at San Francisco State University.
+- I'm best reached via [email](lung1@mail.sfsu.edu). I'm always open to interesting conversations and collaborations.
+- Fun fact: The bravest thing I've ever done is to overcome acrophobia. During a trip to Thailand, I tried treetop walking as part of an aerial obstacle course. I did it without handles but with a secure harness. It was a pretty cool experience. :sweat_smile: 
 
 <!--
 **itsmeleah/itsmeleah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
