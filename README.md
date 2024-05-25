@@ -1,7 +1,8 @@
 ### Hi there, I'm Leah :wave:
-- I'm a Data Science grad student at San Francisco State University.
-- I'm best reached via [email](uncstat28@gmail.com). I'm always open to interesting conversations and collaborations.
-- Fun fact: The bravest thing I've ever done is to overcome acrophobia. During a trip to Thailand, I tried treetop walking as part of an aerial obstacle course. I did it without handles but with a secure harness. It was a pretty cool experience. :sweat_smile: 
+- I'm a Junior Research Scientist at UCSF with a background in Data Science. 
+- My current project involves creating prediction tools focused on the study of TCRs and their interaction with disease-related peptides.
+- You can reach me best via [email](uncstat28@gmail.com). I'm always open to engaging conversations and potential collaborations.
+- Fun fact: My bravest accomplishment was overcoming acrophobia. On a trip to Thailand, I attempted treetop walking as part of an aerial obstacle course. I managed to do it handle-free, with only a secure harness. It was an exhilarating experience. :sweat_smile:
 
 <!--
 **itsmeleah/itsmeleah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
